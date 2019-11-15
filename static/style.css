@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#count_button {
+    border-radius: 5px;
+    background-color: rgb(114, 114, 199);
+    color: white;
+}
+
+#reset_button {
+    border-radius: 5px;
+    background-color: rgb(180, 102, 71);
+    color: white;
+}
